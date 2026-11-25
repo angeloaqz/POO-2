@@ -1,0 +1,5 @@
+{
+  "Servidor": "localhost",
+  "Porta": 5432,
+  "Usuario": "admin"
+}
